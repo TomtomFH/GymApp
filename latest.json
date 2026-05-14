@@ -1,7 +1,7 @@
 ﻿{
     "appName":  "GymApp",
-    "versionCode":  33,
-    "versionName":  "1.32",
+    "versionCode":  34,
+    "versionName":  "1.33",
     "apkUrl":  "https://raw.githubusercontent.com/TomtomFH/GymApp/main/GymApp.apk",
-    "sha256":  "c245736e0523a121f590c513f4a882aafc192eac55b5ebd8fda3fcc9fd3a7dd1"
+    "sha256":  "2a187134275d589bbef7677ebfe80a8f55c91663336d62775f24ce5dd8e9ccb5"
 }
