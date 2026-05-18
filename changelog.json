@@ -1,6 +1,14 @@
 ﻿{
-    "highestVersionCode":  51,
+    "highestVersionCode":  52,
     "entries":  [
+                    {
+                        "version":  "1.51",
+                        "versionCode":  52,
+                        "channel":  "beta",
+                        "changes":  [
+                                        "Bumped the app version so clients refresh the expanded online changelog."
+                                    ]
+                    },
                     {
                         "version":  "1.50",
                         "versionCode":  51,
