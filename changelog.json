@@ -1,0 +1,113 @@
+﻿{
+    "highestVersionCode":  51,
+    "entries":  [
+                    {
+                        "version":  "1.50",
+                        "versionCode":  51,
+                        "channel":  "beta",
+                        "changes":  [
+                                        "Moved the changelog online to the beta APK branch.",
+                                        "Added beta and release color coding to changelog entries.",
+                                        "Cached the online changelog locally until the highest known version changes."
+                                    ]
+                    },
+                    {
+                        "version":  "1.49",
+                        "versionCode":  50,
+                        "channel":  "beta",
+                        "changes":  [
+                                        "Renamed tracker description mode from Value to Values.",
+                                        "Added a Settings value selector for choosing which tracker values appear in tracker descriptions."
+                                    ]
+                    },
+                    {
+                        "version":  "1.48",
+                        "versionCode":  49,
+                        "channel":  "beta",
+                        "changes":  [
+                                        "Fixed unilateral column chart groups so bars and side labels do not overlap between dates."
+                                    ]
+                    },
+                    {
+                        "version":  "1.47",
+                        "versionCode":  48,
+                        "channel":  "beta",
+                        "changes":  [
+                                        "Cleared Music search after selecting a song.",
+                                        "Improved unilateral column value labels when charts are crowded.",
+                                        "Kept Weight values readable with up to two decimal places."
+                                    ]
+                    },
+                    {
+                        "version":  "1.46",
+                        "versionCode":  47,
+                        "channel":  "release",
+                        "changes":  [
+                                        "Changed all column chart scales to use the same doubled-and-rounded max rule that Reps uses."
+                                    ]
+                    },
+                    {
+                        "version":  "1.45",
+                        "versionCode":  46,
+                        "channel":  "release",
+                        "changes":  [
+                                        "Changed top set selection to use the other tracked values as tie-breakers when Weight is the same."
+                                    ]
+                    },
+                    {
+                        "version":  "1.44",
+                        "versionCode":  45,
+                        "channel":  "release",
+                        "changes":  [
+                                        "Changed displayed tracker stats so every value comes from the same top set, with Weight deciding the top set when available."
+                                    ]
+                    },
+                    {
+                        "version":  "1.43",
+                        "versionCode":  44,
+                        "channel":  "release",
+                        "changes":  [
+                                        "Changed Reps column chart scaling to use integer ticks from 0 to double the highest reps rounded up to the next 10."
+                                    ]
+                    },
+                    {
+                        "version":  "1.42",
+                        "versionCode":  43,
+                        "channel":  "release",
+                        "changes":  [
+                                        "Changed column charts so Reps scales always start at 0."
+                                    ]
+                    },
+                    {
+                        "version":  "1.41",
+                        "versionCode":  42,
+                        "channel":  "release",
+                        "changes":  [
+                                        "Highlighted the latest known Info version numbers in green across Local, Release, and Beta."
+                                    ]
+                    },
+                    {
+                        "version":  "1.40",
+                        "versionCode":  41,
+                        "channel":  "release",
+                        "changes":  [
+                                        "Changed Info version display to show Local, Release, and Beta versions separately."
+                                    ]
+                    },
+                    {
+                        "version":  "Earlier builds",
+                        "versionCode":  0,
+                        "channel":  "release",
+                        "changes":  [
+                                        "Created the GymApp mobile tracker UI.",
+                                        "Added user-managed categories and trackers.",
+                                        "Added add, rename, and delete flows.",
+                                        "Added kg weight labels and removed sample default data.",
+                                        "Added category and grid-based tracker selection.",
+                                        "Fixed mobile scrolling and chart sizing issues.",
+                                        "Added readable history and chart axes.",
+                                        "Added Music, app update checks, playlist downloading, settings, and the changelog popup."
+                                    ]
+                    }
+                ]
+}
