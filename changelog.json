@@ -4,7 +4,7 @@
                     {
                         "version":  "1.51",
                         "versionCode":  52,
-                        "channel":  "beta",
+                        "channel":  "release",
                         "changes":  [
                                         "Bumped the app version so clients refresh the expanded online changelog."
                                     ]
@@ -12,7 +12,7 @@
                     {
                         "version":  "1.50",
                         "versionCode":  51,
-                        "channel":  "beta",
+                        "channel":  "release",
                         "changes":  [
                                         "Moved the changelog online to the beta APK branch.",
                                         "Added beta and release color coding to changelog entries.",
@@ -22,7 +22,7 @@
                     {
                         "version":  "1.49",
                         "versionCode":  50,
-                        "channel":  "beta",
+                        "channel":  "release",
                         "changes":  [
                                         "Renamed tracker description mode from Value to Values.",
                                         "Added a Settings value selector for choosing which tracker values appear in tracker descriptions."
@@ -31,7 +31,7 @@
                     {
                         "version":  "1.48",
                         "versionCode":  49,
-                        "channel":  "beta",
+                        "channel":  "release",
                         "changes":  [
                                         "Fixed unilateral column chart groups so bars and side labels do not overlap between dates."
                                     ]
@@ -39,7 +39,7 @@
                     {
                         "version":  "1.47",
                         "versionCode":  48,
-                        "channel":  "beta",
+                        "channel":  "release",
                         "changes":  [
                                         "Cleared Music search after selecting a song.",
                                         "Improved unilateral column value labels when charts are crowded.",
