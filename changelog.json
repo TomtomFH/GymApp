@@ -1,6 +1,13 @@
 ﻿{
-    "highestVersionCode":  56,
+    "highestVersionCode":  57,
     "entries":  [
+                    {
+                        "version":  "1.56",
+                        "versionCode":  57,
+                        "changes":  [
+                                        "Auto-scrolled column charts to the latest values after saving a new tracker entry."
+                                    ]
+                    },
                     {
                         "version":  "1.55",
                         "versionCode":  56,
