@@ -1,6 +1,13 @@
 ﻿{
-    "highestVersionCode":  57,
+    "highestVersionCode":  58,
     "entries":  [
+                    {
+                        "version":  "1.57",
+                        "versionCode":  58,
+                        "changes":  [
+                                        "Fixed Music playlist updates so removed YouTube songs are deleted locally and additions/removals both refresh correctly."
+                                    ]
+                    },
                     {
                         "version":  "1.56",
                         "versionCode":  57,
