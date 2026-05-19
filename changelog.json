@@ -1,6 +1,13 @@
 ﻿{
-    "highestVersionCode":  54,
+    "highestVersionCode":  55,
     "entries":  [
+                    {
+                        "version":  "1.54",
+                        "versionCode":  55,
+                        "changes":  [
+                                        "Added a swipeable 3-day time window for column charts."
+                                    ]
+                    },
                     {
                         "version":  "1.53",
                         "versionCode":  54,
