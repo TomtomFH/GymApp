@@ -1,6 +1,13 @@
 ﻿{
-    "highestVersionCode":  58,
+    "highestVersionCode":  59,
     "entries":  [
+                    {
+                        "version":  "1.58",
+                        "versionCode":  59,
+                        "changes":  [
+                                        "Compacted Music playlist numbering after removals so downloaded songs keep a continuous index."
+                                    ]
+                    },
                     {
                         "version":  "1.57",
                         "versionCode":  58,
