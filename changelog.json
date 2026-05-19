@@ -1,6 +1,13 @@
 ﻿{
-    "highestVersionCode":  55,
+    "highestVersionCode":  56,
     "entries":  [
+                    {
+                        "version":  "1.55",
+                        "versionCode":  56,
+                        "changes":  [
+                                        "Changed column chart swiping to use evenly spaced exercise-day slots so labels move smoothly with the bars."
+                                    ]
+                    },
                     {
                         "version":  "1.54",
                         "versionCode":  55,
