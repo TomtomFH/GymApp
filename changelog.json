@@ -1,6 +1,13 @@
 ﻿{
-    "highestVersionCode":  59,
+    "highestVersionCode":  60,
     "entries":  [
+                    {
+                        "version":  "1.59",
+                        "versionCode":  60,
+                        "changes":  [
+                                        "Added a default-on background music setting that keeps playback in a foreground service with a persistent notification."
+                                    ]
+                    },
                     {
                         "version":  "1.58",
                         "versionCode":  59,
