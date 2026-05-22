@@ -1,6 +1,13 @@
 ﻿{
-    "highestVersionCode":  62,
+    "highestVersionCode":  63,
     "entries":  [
+                    {
+                        "version":  "1.62",
+                        "versionCode":  63,
+                        "changes":  [
+                                        "Added a confirmed Settings action to clear all downloaded Music songs and reset the local playlist index."
+                                    ]
+                    },
                     {
                         "version":  "1.61",
                         "versionCode":  62,
