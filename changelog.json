@@ -1,6 +1,13 @@
 ﻿{
-    "highestVersionCode":  61,
+    "highestVersionCode":  62,
     "entries":  [
+                    {
+                        "version":  "1.61",
+                        "versionCode":  62,
+                        "changes":  [
+                                        "Made Music downloads resume partial files after connection resets and changed playlist downloading to 25 slots with 3 attempts."
+                                    ]
+                    },
                     {
                         "version":  "1.60",
                         "versionCode":  61,
