@@ -1,6 +1,13 @@
 ﻿{
-    "highestVersionCode":  60,
+    "highestVersionCode":  61,
     "entries":  [
+                    {
+                        "version":  "1.60",
+                        "versionCode":  61,
+                        "changes":  [
+                                        "Reviewed and tightened Music playlist downloading so failed songs do not appear as downloaded, missing local files are detected, index renumbering reuses existing files, and retry/parallel download behavior is calmer."
+                                    ]
+                    },
                     {
                         "version":  "1.59",
                         "versionCode":  60,
