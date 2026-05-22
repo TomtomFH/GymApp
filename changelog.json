@@ -1,6 +1,13 @@
 ﻿{
-    "highestVersionCode":  63,
+    "highestVersionCode":  64,
     "entries":  [
+                    {
+                        "version":  "1.63",
+                        "versionCode":  64,
+                        "changes":  [
+                                        "Stopped Music download progress bars from moving backward during retries and added clearer retry reasons for diagnosing connection resets."
+                                    ]
+                    },
                     {
                         "version":  "1.62",
                         "versionCode":  63,
