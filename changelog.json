@@ -1,6 +1,13 @@
 ﻿{
-    "highestVersionCode":  68,
+    "highestVersionCode":  69,
     "entries":  [
+                    {
+                        "version":  "1.68",
+                        "versionCode":  69,
+                        "changes":  [
+                                        "Made tracker description value settings update dynamically when custom tracker values are added."
+                                    ]
+                    },
                     {
                         "version":  "1.67",
                         "versionCode":  68,
