@@ -1,6 +1,13 @@
 ﻿{
-    "highestVersionCode":  69,
+    "highestVersionCode":  70,
     "entries":  [
+                    {
+                        "version":  "1.69",
+                        "versionCode":  70,
+                        "changes":  [
+                                        "Fixed crowded top axis labels on column charts and changed combined bar labels to use separators instead of multiplication signs."
+                                    ]
+                    },
                     {
                         "version":  "1.68",
                         "versionCode":  69,
