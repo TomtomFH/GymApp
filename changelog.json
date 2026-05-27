@@ -1,6 +1,13 @@
 ﻿{
-    "highestVersionCode":  65,
+    "highestVersionCode":  66,
     "entries":  [
+                    {
+                        "version":  "1.65",
+                        "versionCode":  66,
+                        "changes":  [
+                                        "Moved custom tracker value naming into a popup, made the plus button circular, and added long-press renaming for existing values."
+                                    ]
+                    },
                     {
                         "version":  "1.64",
                         "versionCode":  65,
