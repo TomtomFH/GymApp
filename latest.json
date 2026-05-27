@@ -1,9 +1,9 @@
 ﻿{
     "appName":  "GymApp",
     "channel":  "beta",
-    "versionCode":  67,
-    "versionName":  "1.66",
+    "versionCode":  68,
+    "versionName":  "1.67",
     "apkUrl":  "https://raw.githubusercontent.com/TomtomFH/GymApp/beta/GymApp.apk",
-    "apkSizeBytes":  2057359,
-    "sha256":  "0d0bc884f4ce5592211ffcc079930621ae75e490e922262ea93b4d4546414a64"
+    "apkSizeBytes":  2055901,
+    "sha256":  "853cf9c755fe3774281bcc8685bf5a07c877bf3478bc5da82739b98d5a840114"
 }

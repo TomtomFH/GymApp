@@ -1,6 +1,13 @@
 ﻿{
-    "highestVersionCode":  67,
+    "highestVersionCode":  68,
     "entries":  [
+                    {
+                        "version":  "1.67",
+                        "versionCode":  68,
+                        "changes":  [
+                                        "Ended support for line diagrams so all tracker charts now use columns, and cleaned up time axis labels."
+                                    ]
+                    },
                     {
                         "version":  "1.66",
                         "versionCode":  67,
