@@ -1,6 +1,13 @@
 ﻿{
-    "highestVersionCode":  64,
+    "highestVersionCode":  65,
     "entries":  [
+                    {
+                        "version":  "1.64",
+                        "versionCode":  65,
+                        "changes":  [
+                                        "Replaced the generic Number tracker value with a plus button for adding custom per-tracker values such as kcal."
+                                    ]
+                    },
                     {
                         "version":  "1.63",
                         "versionCode":  64,
