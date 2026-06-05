@@ -1,6 +1,13 @@
 ﻿{
-    "highestVersionCode":  71,
+    "highestVersionCode":  72,
     "entries":  [
+                    {
+                        "version":  "1.71",
+                        "versionCode":  72,
+                        "changes":  [
+                                        "Added a transfer action for old Music playlist downloads and prevented removing the default playlist."
+                                    ]
+                    },
                     {
                         "version":  "1.70",
                         "versionCode":  71,
