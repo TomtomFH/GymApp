@@ -1,6 +1,13 @@
 ﻿{
-    "highestVersionCode":  70,
+    "highestVersionCode":  71,
     "entries":  [
+                    {
+                        "version":  "1.70",
+                        "versionCode":  71,
+                        "changes":  [
+                                        "Added Music playlist management with multiple YouTube playlists, removed the discontinued Timer menu, and fixed native playback state after changing repeat mode."
+                                    ]
+                    },
                     {
                         "version":  "1.69",
                         "versionCode":  70,
