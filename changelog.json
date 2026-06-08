@@ -1,6 +1,13 @@
 ﻿{
-    "highestVersionCode":  72,
+    "highestVersionCode":  73,
     "entries":  [
+                    {
+                        "version":  "1.72",
+                        "versionCode":  73,
+                        "changes":  [
+                                        "Changed Music playlist setup to use YouTube playlist names automatically, with numbered fallback names only when the title cannot be fetched."
+                                    ]
+                    },
                     {
                         "version":  "1.71",
                         "versionCode":  72,
