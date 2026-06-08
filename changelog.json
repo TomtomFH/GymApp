@@ -1,6 +1,13 @@
 ﻿{
-    "highestVersionCode":  73,
+    "highestVersionCode":  74,
     "entries":  [
+                    {
+                        "version":  "1.73",
+                        "versionCode":  74,
+                        "changes":  [
+                                        "Fixed non-default Music playlists loading empty after app startup until Update Playlist was pressed."
+                                    ]
+                    },
                     {
                         "version":  "1.72",
                         "versionCode":  73,
