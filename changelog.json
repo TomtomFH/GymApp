@@ -1,6 +1,13 @@
 ﻿{
-    "highestVersionCode":  75,
+    "highestVersionCode":  76,
     "entries":  [
+                    {
+                        "version":  "1.75",
+                        "versionCode":  76,
+                        "changes":  [
+                                        "Moved the Music playlist selector above Now Playing and made playlist add/remove actions use the full row."
+                                    ]
+                    },
                     {
                         "version":  "1.74",
                         "versionCode":  75,
