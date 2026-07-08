@@ -1,6 +1,13 @@
 ﻿{
-    "highestVersionCode":  79,
+    "highestVersionCode":  80,
     "entries":  [
+                    {
+                        "version":  "1.79",
+                        "versionCode":  80,
+                        "changes":  [
+                                        "Hid manual playlist edit buttons for YouTube-synced and All songs playlists, with a clear note explaining why they cannot be edited there."
+                                    ]
+                    },
                     {
                         "version":  "1.78",
                         "versionCode":  79,
