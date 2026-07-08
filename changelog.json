@@ -1,6 +1,13 @@
 ﻿{
-    "highestVersionCode":  77,
+    "highestVersionCode":  78,
     "entries":  [
+                    {
+                        "version":  "1.77",
+                        "versionCode":  78,
+                        "changes":  [
+                                        "Restored automatic update checks for YouTube-created Music playlists while keeping manual playlists local-only."
+                                    ]
+                    },
                     {
                         "version":  "1.76",
                         "versionCode":  77,
