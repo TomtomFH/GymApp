@@ -1,6 +1,13 @@
 ﻿{
-    "highestVersionCode":  74,
+    "highestVersionCode":  75,
     "entries":  [
+                    {
+                        "version":  "1.74",
+                        "versionCode":  75,
+                        "changes":  [
+                                        "Reworked Music playlists into a shared song library with app-managed playlists, song management, and playlist selection from the Music title."
+                                    ]
+                    },
                     {
                         "version":  "1.73",
                         "versionCode":  74,
