@@ -1,6 +1,13 @@
 ﻿{
-    "highestVersionCode":  78,
+    "highestVersionCode":  79,
     "entries":  [
+                    {
+                        "version":  "1.78",
+                        "versionCode":  79,
+                        "changes":  [
+                                        "Restored the protected YouTube-synced Default playlist and kept All songs as a separate library view."
+                                    ]
+                    },
                     {
                         "version":  "1.77",
                         "versionCode":  78,
