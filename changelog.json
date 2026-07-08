@@ -1,6 +1,13 @@
 ﻿{
-    "highestVersionCode":  76,
+    "highestVersionCode":  77,
     "entries":  [
+                    {
+                        "version":  "1.76",
+                        "versionCode":  77,
+                        "changes":  [
+                                        "Added a Settings playlist manager for deleting custom Music playlists while keeping downloaded songs in the library."
+                                    ]
+                    },
                     {
                         "version":  "1.75",
                         "versionCode":  76,
