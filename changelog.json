@@ -1,6 +1,13 @@
 ﻿{
-    "highestVersionCode":  80,
+    "highestVersionCode":  81,
     "entries":  [
+                    {
+                        "version":  "1.80",
+                        "versionCode":  81,
+                        "changes":  [
+                                        "Fixed YouTube playlist change counts, added manual sync for synced playlists, and made song numbering restart inside each playlist view."
+                                    ]
+                    },
                     {
                         "version":  "1.79",
                         "versionCode":  80,
